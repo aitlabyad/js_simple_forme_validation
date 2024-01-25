@@ -1,0 +1,11 @@
+{
+  "name": "js-simple-forme-validation",
+  "version": "1.0.0",
+  "description": "forme validation by js Mini-project",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mouhcine ait labyad",
+  "license": "ISC"
+}
